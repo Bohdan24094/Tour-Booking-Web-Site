@@ -1,0 +1,2 @@
+2024-07-03 04:40:25.958 +03:00 [WRN] No store type was specified for the decimal property 'Price' on entity type 'Tour'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2024-07-03 04:40:28.995 +03:00 [INF] Fetching cart items for user ID 1b2c4be4-42b9-4fa1-843c-7784d83aae8e

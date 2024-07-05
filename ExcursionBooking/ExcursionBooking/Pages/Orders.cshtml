@@ -1,0 +1,44 @@
+﻿@page
+@model ExcursionBooking.Pages.OrdersModel
+@{
+    ViewData["Title"] = "Orders";
+}
+<h2>Orders</h2>
+
+@if (Model.Orders.Any())
+{
+    <form method="post" asp-page-handler="Export">
+        <button type="submit" class="btn btn-primary">Export to Excel</button>
+    </form>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Tour</th>
+                <th>User</th>
+                <th>Adults</th>
+                <th>Children</th>
+                <th>Order Date</th>
+                <th>Contact Info</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+                    <td>@order.Id</td>
+                    <td>@order.Tour.Title</td>
+                    <td>@order.FirstName @order.LastName</td>
+                    <td>@order.Adults</td>
+                    <td>@order.Children</td>
+                    <td>@order.OrderDate</td>
+                    <td>@order.PhoneNumber <br /> @order.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No orders available.</p>
+}

@@ -1,0 +1,43 @@
+﻿@page "{id:int}"
+@model ExcursionBooking.Pages.ExcursionDetailsModel
+@{
+    ViewData["Title"] = "Excursion Details";
+}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card">
+                <h2>@Model.Tour.Title</h2>
+                <img class="card-img-top" src="~/lib/Images/@Model.Tour.ImageUrl" alt="Tour Image" />
+                <div class="card-body">
+                    <p class="card-text">@Model.Tour.Description</p>
+                    <p><strong>Date:</strong> @Model.Tour.Date.ToShortDateString()</p>
+                    <p><strong>Price:</strong> @Model.Tour.Price.ToString("C")</p>
+
+                    <!-- Додатковий статичний контент, специфічний для кожної екскурсії -->
+                    @if (Model.Tour.Id == 1)
+                    {
+                        <h3>Special Recommendations for Tour 1</h3>
+                        <p>Make sure to bring comfortable shoes and a camera to capture the beautiful sights.</p>
+                        <p>We also recommend trying the local cuisine at nearby restaurants.</p>
+                    }
+                    else if (Model.Tour.Id == 3)
+                    {
+                        <h3>Special Recommendations for Tour 3</h3>
+                        <p>Explore the historic landmarks and enjoy the scenic views.</p>
+                        <p>Don't forget to visit the local markets for unique souvenirs.</p>
+                    }
+                    <!-- Інший специфічний контент для інших екскурсій -->
+                    <div class="btn-group">
+                        <a asp-page="/Booking" asp-route-id="@Model.Tour.Id" class="btn btn-sm btn-outline-secondary">Book</a>
+                    </div>
+                    <h3>Special Offers</h3>
+                    <p>Book another tour within a month and get a 10% discount on your next excursion!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

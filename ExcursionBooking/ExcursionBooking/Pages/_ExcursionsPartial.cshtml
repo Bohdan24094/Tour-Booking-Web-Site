@@ -1,0 +1,21 @@
+﻿@model Tuple<IEnumerable<ExcursionBooking.Models.Tour>, IDictionary<int, List<int>>>
+
+@foreach (var excursion in Model.Item1)
+{
+    var categories = Model.Item2.ContainsKey(excursion.Id) ? Model.Item2[excursion.Id] : new List<int>();
+    var categoryClasses = string.Join(" ", categories.Select(c => $"filter-{c}"));
+
+    <div class="col-lg-4 col-md-6 portfolio-item isotope-item @categoryClasses">
+        <div class="portfolio-content h-100">
+            <img src="~/lib/images/@excursion.ImageUrl" class="img-fluid" alt="Excursion image">
+            <div class="portfolio-info">
+                <h4>@excursion.Title</h4>
+                <p>@excursion.Description</p>
+                <p>@excursion.Date</p>
+                <p>@excursion.Price</p>
+                <a href="~/lib/images/@excursion.ImageUrl" title="@excursion.Title" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a asp-page="/ExcursionDetails" asp-route-id="@excursion.Id" title="More Details" class="details-link"><i class="bi bi-link-45deg">View</i></a>
+            </div>
+        </div>
+    </div>
+}

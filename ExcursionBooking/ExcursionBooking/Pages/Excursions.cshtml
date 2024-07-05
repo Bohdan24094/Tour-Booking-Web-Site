@@ -1,0 +1,48 @@
+﻿@page
+@model ExcursionBooking.Pages.ExcursionsModel
+@{
+    ViewData["Title"] = "Excursions";
+}
+
+<section class="py-5 text-center container">
+    <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Tours</h1>
+            <div class="btn-group" role="group" aria-label="Category buttons">
+                <select id="categorySelect" class="form-select" onchange="filterTours()">
+                    <option value="*" class="filter-active">All</option>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <option value=".filter-@category.Id">@category.Name</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="album py-5 bg-body-tertiary">
+        <div class="container">
+            <div id="toursContainer" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 isotope-container" data-aos="fade-up" data-aos-delay="200">
+                @await Html.PartialAsync("_ExcursionsPartial", Tuple.Create(Model.Tours, Model.TourToCategoryMap))
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var $grid = $('#toursContainer').isotope({
+            itemSelector: '.isotope-item',
+            layoutMode: 'fitRows'
+        });
+
+        $('#categorySelect').on('change', function () {
+            var filterValue = $(this).val();
+            $grid.isotope({ filter: filterValue });
+        });
+    });
+</script>
+

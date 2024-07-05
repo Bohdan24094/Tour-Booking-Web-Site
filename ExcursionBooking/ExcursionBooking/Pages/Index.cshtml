@@ -1,0 +1,49 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<style>
+    .hero-image {
+        background-image: url(lib/images/maksym-diachenko-xkfWHbjlKhI-unsplash.jpg);
+        background-position: center;
+        background-size: cover;
+        max-width:100%;
+        height: 100vh; /* Висота відповідно до висоти екрану */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        color: white;
+    }
+
+    .hero-content {
+        background-color: rgba(0, 0, 0, 0.5); /* Затінення (чорний колір з прозорістю) */
+        padding: 20px;
+        max-width: 800px; /* Максимальна ширина контенту */
+    }
+
+        .hero-content h1 {
+            font-size: 3rem; /* Розмір заголовка */
+            margin-bottom: 20px;
+        }
+
+        .hero-content p {
+            font-size: 1.5rem; /* Розмір тексту */
+        }
+</style>
+
+<div     <img class="hero-image" src="~/lib/images/maksym-diachenko-xkfWHbjlKhI-unsplash.jpg" />>
+    <div class="hero-content">
+        <h3 class="display-4">Креативні екскурсії містом Київ</h3>
+        <h2>Найцікавіші екскурсії столицею України!</h2>
+        <p><a>Реєструйся на екскурсії різноманітними локаціями на нашому сайті</a></p>
+        <p><a>Після офрмлення замовлення наш менеджер зв'яжеться з вами для подальшої взаємодії!</a></p>
+        <p><a>Приєднуйся до нас та мандруй старовинними стежками загадкового міста</a></p>
+        <p><a>Обирай <a href="/Excursions">екскурсії</a> з різноманітниї категорій</a></p>
+        <p><a>Спеціальні екскурсії для дітей</a></p>
+        <h2><a href="/Identity/Account/Register">Долучайся до нас прямо зараз</a></h2>
+    </div>
+</div>
+

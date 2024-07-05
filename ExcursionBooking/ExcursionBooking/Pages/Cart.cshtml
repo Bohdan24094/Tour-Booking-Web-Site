@@ -1,0 +1,48 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity;
+@using ExcursionBooking.Models;
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> Usermanager
+@model ExcursionBooking.Pages.CartModel
+@{
+    ViewData["Title"] = "Cart";
+}
+<div class="container">
+    <h2>Your Cart</h2>
+    @if (SignInManager.IsSignedIn(User))
+    {
+        @if (Model.CartItems != null && Model.CartItems.Any())
+        {
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartItems)
+                    {
+                        <tr>
+                            <td>@item.Tour.Title</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.Tour.Price.ToString("C")</td>
+                            <td>@(item.Quantity * item.Tour.Price).ToString("C")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+        else
+        {
+            <p>Your cart is empty.</p>
+        }
+    }
+    else
+    {
+        <p>Please <a href="/Identity/Account/Login">log in</a> to view your cart.</p>
+    }
+</div>

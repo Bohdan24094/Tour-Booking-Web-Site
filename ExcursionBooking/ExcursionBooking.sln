@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcursionBooking", "ExcursionBooking\ExcursionBooking.csproj", "{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcursionBookingTests", "ExcursionBookingTests\ExcursionBookingTests.csproj", "{957185EC-2693-4084-B206-A7D6927CF42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957185EC-2693-4084-B206-A7D6927CF42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957185EC-2693-4084-B206-A7D6927CF42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957185EC-2693-4084-B206-A7D6927CF42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957185EC-2693-4084-B206-A7D6927CF42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65AE13D6-A193-4C06-A6FD-237AC479DDFE}
+	EndGlobalSection
+EndGlobal

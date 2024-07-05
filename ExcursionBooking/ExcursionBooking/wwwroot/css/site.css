@@ -1,0 +1,227 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.projects .portfolio-filters {
+    padding: 0;
+    margin: 0 auto 20px auto;
+    list-style: none;
+    text-align: center;
+}
+
+    .projects .portfolio-filters li {
+        cursor: pointer;
+        display: inline-block;
+        padding: 0;
+        font-size: 18px;
+        font-weight: 500;
+        margin: 0 10px;
+        line-height: 1;
+        margin-bottom: 5px;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .projects .portfolio-filters li:hover,
+        .projects .portfolio-filters li.filter-active {
+            color: var(--accent-color);
+        }
+
+        .projects .portfolio-filters li:first-child {
+            margin-left: 0;
+        }
+
+        .projects .portfolio-filters li:last-child {
+            margin-right: 0;
+        }
+
+@media (max-width: 575px) {
+    .projects .portfolio-filters li {
+        font-size: 14px;
+        margin: 0 5px;
+    }
+}
+
+.projects .portfolio-content {
+    position: relative;
+    overflow: hidden;
+}
+
+    .projects .portfolio-content img {
+        transition: 0.3s;
+    }
+
+    .projects .portfolio-content .portfolio-info {
+        opacity: 0;
+        position: absolute;
+        inset: 0;
+        z-index: 3;
+        transition: all ease-in-out 0.3s;
+        background: rgba(0, 0, 0, 0.6);
+        padding: 15px;
+    }
+
+        .projects .portfolio-content .portfolio-info h4 {
+            font-size: 14px;
+            padding: 5px 10px;
+            font-weight: 400;
+            color: #ffffff;
+            display: inline-block;
+            background-color: var(--accent-color);
+        }
+
+        .projects .portfolio-content .portfolio-info p {
+            position: absolute;
+            bottom: 10px;
+            text-align: center;
+            display: inline-block;
+            left: 0;
+            right: 0;
+            font-size: 16px;
+            font-weight: 600;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .projects .portfolio-content .portfolio-info .preview-link,
+        .projects .portfolio-content .portfolio-info .details-link {
+            position: absolute;
+            left: calc(50% - 40px);
+            font-size: 26px;
+            top: calc(50% - 14px);
+            color: #fff;
+            transition: 0.3s;
+            line-height: 1.2;
+        }
+
+            .projects .portfolio-content .portfolio-info .preview-link:hover,
+            .projects .portfolio-content .portfolio-info .details-link:hover {
+                color: var(--accent-color);
+            }
+
+        .projects .portfolio-content .portfolio-info .details-link {
+            left: 50%;
+            font-size: 34px;
+            line-height: 0;
+        }
+
+    .projects .portfolio-content:hover .portfolio-info {
+        opacity: 1;
+    }
+
+    .projects .portfolio-content:hover img {
+        transform: scale(1.1);
+    }
+/* Стилі для контейнера картки */
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.card-img-top {
+    width: 50%; /* Забезпечує, що зображення займе всю ширину картки */
+    max-height: 50%; /* Обмежує висоту зображення до 300px */
+    object-fit: cover; /* Зберігає аспектне відношення зображення */
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}
+
+
+.card-container {
+    background-color: #fff; /* Білий фон */
+    border-radius: 10px; /* Закруглені кути */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Тінь */
+    margin: 20px auto; /* Відступи */
+    max-width: 800px; /* Максимальна ширина контейнера */
+    padding: 20px; /* Внутрішні відступи */
+}
+
+    /* Стилі для зелених елементів */
+    .card-container h2,
+    .card-container h3,
+    .card-container .btn {
+        color: #4CAF50; /* Зелений колір тексту */
+    }
+
+    .card-container .btn-outline-secondary {
+        color: #4CAF50; /* Зелений колір тексту для кнопок */
+        border-color: #4CAF50; /* Зелений колір меж кнопок */
+    }
+
+    .card-container img.backround {
+        width: 100%;
+        height: auto;
+        border-radius: 10px; /* Закруглені кути для зображення */
+        margin-bottom: 20px; /* Відступ під зображенням */
+    }
+
+    .card-container p {
+        margin-bottom: 10px; /* Відступ після абзаців */
+    }
+
+/* Стилі для кнопок */
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    background-color: #4CAF50;
+    border: 1px solid #4CAF50;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    text-decoration: none;
+}
+
+    .btn:hover {
+        color: #fff;
+        background-color: #45a049;
+        border-color: #45a049;
+        text-decoration: none;
+    }
+
+    .btn:focus {
+        outline: 0;
+        box-shadow: 0 0 0 0.2rem rgba(76, 175, 80, 0.5);
+    }
+
+    .btn:disabled {
+        color: #fff;
+        background-color: #6c757d;
+        border-color: #6c757d;
+        cursor: not-allowed;
+    }
+
+    .btn:not(:disabled):not(.disabled) {
+        cursor: pointer;
+    }
+
+/* Додаткові стилі для адаптивності */
+@media (max-width: 768px) {
+    .card-container {
+        padding: 10px; /* Зменшені внутрішні відступи на малих екранах */
+    }
+}
