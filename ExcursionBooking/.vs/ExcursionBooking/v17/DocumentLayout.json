@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{957185EC-2693-4084-B206-A7D6927CF42C}|ExcursionBookingTests\\ExcursionBookingTests.csproj|c:\\users\\bobko\\development\\tour-booking-web-site\\excursionbooking\\excursionbookingtests\\services\\cartservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|c:\\users\\bobko\\development\\tour-booking-web-site\\excursionbooking\\excursionbooking\\excursionbooking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\excursionbooking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{957185EC-2693-4084-B206-A7D6927CF42C}|ExcursionBookingTests\\ExcursionBookingTests.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbookingtests\\services\\cartservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{957185EC-2693-4084-B206-A7D6927CF42C}|ExcursionBookingTests\\ExcursionBookingTests.csproj|solutionrelative:excursionbookingtests\\services\\cartservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{957185EC-2693-4084-B206-A7D6927CF42C}|ExcursionBookingTests\\ExcursionBookingTests.csproj|c:\\users\\bobko\\development\\tour-booking-web-site\\excursionbooking\\excursionbookingtests\\services\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{957185EC-2693-4084-B206-A7D6927CF42C}|ExcursionBookingTests\\ExcursionBookingTests.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbookingtests\\services\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{957185EC-2693-4084-B206-A7D6927CF42C}|ExcursionBookingTests\\ExcursionBookingTests.csproj|solutionrelative:excursionbookingtests\\services\\bookingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,10 +75,6 @@
       "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\logfiles\\log20240703_002.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\logfiles\\log20240703_002.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -77,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\logfiles\\log20240703_001.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\logfiles\\log20240703_001.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|solutionrelative:excursionbooking\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ABF29E9B-6F93-469F-B79E-AD7B0D3F1667}|ExcursionBooking\\ExcursionBooking.csproj|C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\excursionbooking\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -178,58 +178,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExcursionBooking",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\ExcursionBooking.csproj",
+              "RelativeDocumentMoniker": "ExcursionBooking\\ExcursionBooking.csproj",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\ExcursionBooking.csproj",
+              "RelativeToolTip": "ExcursionBooking\\ExcursionBooking.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T23:45:10.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CartServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBookingTests\\Services\\CartServiceTests.cs",
               "RelativeDocumentMoniker": "ExcursionBookingTests\\Services\\CartServiceTests.cs",
               "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBookingTests\\Services\\CartServiceTests.cs",
               "RelativeToolTip": "ExcursionBookingTests\\Services\\CartServiceTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAARAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwA8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T23:53:44.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-05T23:53:44.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookingServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBookingTests\\Services\\BookingServiceTests.cs",
-              "RelativeDocumentMoniker": "ExcursionBookingTests\\Services\\BookingServiceTests.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBookingTests\\Services\\BookingServiceTests.cs",
-              "RelativeToolTip": "ExcursionBookingTests\\Services\\BookingServiceTests.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T11:43:02.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\CartService.cs",
-              "RelativeToolTip": "ExcursionBooking\\Services\\CartService.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T23:06:56.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\BookingService.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Services\\BookingService.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\BookingService.cs",
-              "RelativeToolTip": "ExcursionBooking\\Services\\BookingService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:09:54.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ExcursionBooking\\Data\\ApplicationDbContext.cs",
@@ -241,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Booking.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Booking.cshtml.cs",
               "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Booking.cshtml.cs",
@@ -253,164 +226,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\CartItem.cs",
-              "RelativeToolTip": "ExcursionBooking\\Models\\CartItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T05:40:20.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tour.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Tour.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Models\\Tour.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Tour.cs",
-              "RelativeToolTip": "ExcursionBooking\\Models\\Tour.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T05:26:27.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml",
-              "RelativeToolTip": "ExcursionBooking\\Pages\\Cart.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwBsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T08:57:03.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cart.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Cart.cshtml.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml.cs",
-              "RelativeToolTip": "ExcursionBooking\\Pages\\Cart.cshtml.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAowCMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T09:01:28.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Program.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Program.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Program.cs",
-              "RelativeToolTip": "ExcursionBooking\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T06:11:43.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Excursions.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Excursions.cshtml.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Excursions.cshtml.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Excursions.cshtml.cs",
-              "RelativeToolTip": "ExcursionBooking\\Pages\\Excursions.cshtml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:48:10.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Order.cs",
-              "RelativeToolTip": "ExcursionBooking\\Models\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T07:35:15.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Orders.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Orders.cshtml.cs",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Orders.cshtml.cs",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Orders.cshtml.cs",
-              "RelativeToolTip": "ExcursionBooking\\Pages\\Orders.cshtml.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T10:43:40.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\appsettings.json",
               "RelativeDocumentMoniker": "ExcursionBooking\\appsettings.json",
               "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\appsettings.json",
               "RelativeToolTip": "ExcursionBooking\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-17T07:27:23.07Z"
+              "WhenOpened": "2024-06-17T07:27:23.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T11:59:16.42Z"
+              "DocumentIndex": 7,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\BookingService.cs",
+              "RelativeToolTip": "ExcursionBooking\\Services\\BookingService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:09:54.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "log20240703_002.txt",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_002.txt",
-              "RelativeDocumentMoniker": "ExcursionBooking\\logFiles\\log20240703_002.txt",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_002.txt",
-              "RelativeToolTip": "ExcursionBooking\\logFiles\\log20240703_002.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-03T00:48:17.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "log20240703.txt",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703.txt",
-              "RelativeDocumentMoniker": "ExcursionBooking\\logFiles\\log20240703.txt",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703.txt",
-              "RelativeToolTip": "ExcursionBooking\\logFiles\\log20240703.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-03T00:42:20.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "log20240703_001.txt",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_001.txt",
-              "RelativeDocumentMoniker": "ExcursionBooking\\logFiles\\log20240703_001.txt",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_001.txt",
-              "RelativeToolTip": "ExcursionBooking\\logFiles\\log20240703_001.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-03T00:42:17.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ExcursionBooking\\ScaffoldingReadMe.txt",
@@ -422,15 +263,171 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Services\\CartService.cs",
+              "RelativeToolTip": "ExcursionBooking\\Services\\CartService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T23:06:56.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBookingTests\\Services\\BookingServiceTests.cs",
+              "RelativeDocumentMoniker": "ExcursionBookingTests\\Services\\BookingServiceTests.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBookingTests\\Services\\BookingServiceTests.cs",
+              "RelativeToolTip": "ExcursionBookingTests\\Services\\BookingServiceTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:43:02.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\CartItem.cs",
+              "RelativeToolTip": "ExcursionBooking\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:40:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Tour.cs",
+              "RelativeToolTip": "ExcursionBooking\\Models\\Tour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:26:27.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "ExcursionBooking\\Pages\\Cart.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T08:57:03.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "ExcursionBooking\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:01:28.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Program.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Program.cs",
+              "RelativeToolTip": "ExcursionBooking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:11:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Excursions.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Excursions.cshtml.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Excursions.cshtml.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Excursions.cshtml.cs",
+              "RelativeToolTip": "ExcursionBooking\\Pages\\Excursions.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:48:10.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Models\\Order.cs",
+              "RelativeToolTip": "ExcursionBooking\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:35:15.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Orders.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Orders.cshtml.cs",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Pages\\Orders.cshtml.cs",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Pages\\Orders.cshtml.cs",
+              "RelativeToolTip": "ExcursionBooking\\Pages\\Orders.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:43:40.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ExcursionBooking\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T11:59:16.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "log20240703_002.txt",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_002.txt",
+              "RelativeDocumentMoniker": "ExcursionBooking\\logFiles\\log20240703_002.txt",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_002.txt",
+              "RelativeToolTip": "ExcursionBooking\\logFiles\\log20240703_002.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-03T00:48:17.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "log20240703.txt",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703.txt",
+              "RelativeDocumentMoniker": "ExcursionBooking\\logFiles\\log20240703.txt",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703.txt",
+              "RelativeToolTip": "ExcursionBooking\\logFiles\\log20240703.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-03T00:42:20.649Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Dockerfile",
-              "RelativeDocumentMoniker": "ExcursionBooking\\Dockerfile",
-              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\Dockerfile",
-              "RelativeToolTip": "ExcursionBooking\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-18T00:40:17.733Z"
+              "Title": "log20240703_001.txt",
+              "DocumentMoniker": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_001.txt",
+              "RelativeDocumentMoniker": "ExcursionBooking\\logFiles\\log20240703_001.txt",
+              "ToolTip": "C:\\Users\\bobko\\Development\\Tour-Booking-Web-Site\\ExcursionBooking\\ExcursionBooking\\logFiles\\log20240703_001.txt",
+              "RelativeToolTip": "ExcursionBooking\\logFiles\\log20240703_001.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-03T00:42:17.371Z"
             },
             {
               "$type": "Document",
@@ -658,16 +655,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T07:38:17.56Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1182,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

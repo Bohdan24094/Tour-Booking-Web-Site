@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcursionBooking", "Excursi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcursionBookingTests", "ExcursionBookingTests\ExcursionBookingTests.csproj", "{957185EC-2693-4084-B206-A7D6927CF42C}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{40653CC7-9942-41B3-8459-F7E1FF12B289}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{957185EC-2693-4084-B206-A7D6927CF42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{957185EC-2693-4084-B206-A7D6927CF42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{957185EC-2693-4084-B206-A7D6927CF42C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40653CC7-9942-41B3-8459-F7E1FF12B289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40653CC7-9942-41B3-8459-F7E1FF12B289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40653CC7-9942-41B3-8459-F7E1FF12B289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40653CC7-9942-41B3-8459-F7E1FF12B289}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
